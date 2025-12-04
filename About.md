@@ -13,4 +13,4 @@
 
 - Go can cross compile to various target machines and archs
 
-- 
+- Go is very simple langauge, there are only 25 keywords in Go from the inception.
